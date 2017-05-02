@@ -1,4 +1,8 @@
 Greating you,Asia
+<<<<<<< HEAD
 
+=======
+123123
+>>>>>>> refs/heads/new_br
 r new
 
